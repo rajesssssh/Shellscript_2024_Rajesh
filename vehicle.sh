@@ -51,3 +51,7 @@ done < $file_name
 else
 echo "invalid option"
 fi
+
+#script for colour model amd price
+#
+#script
