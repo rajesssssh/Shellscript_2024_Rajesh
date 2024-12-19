@@ -30,4 +30,4 @@ esac
 echo "System configured successfully for the $ROLE role!"
 
 #export ROLE=developer:tester:admin
-
+#export 
